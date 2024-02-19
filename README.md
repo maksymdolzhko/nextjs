@@ -1,3 +1,3 @@
 # nextjs
 nextjs lessons
-first commit
+second commit
